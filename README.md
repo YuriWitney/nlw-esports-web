@@ -23,9 +23,11 @@ To install this project, run the commands:
 
 - For npm users
   `npm install`
+  `npm run dev`
 
 - For yarn users:
   `yarn install`
+  `yarn dev`
 
 # Instructions
 
